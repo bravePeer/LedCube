@@ -1,0 +1,9 @@
+# Eagle files
+
+*.b#*
+*.s#*
+
+#Programming
+
+Debug/
+.vs/
